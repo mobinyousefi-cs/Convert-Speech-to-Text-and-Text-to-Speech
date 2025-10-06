@@ -1,0 +1,6 @@
+SpeechRecognition>=3.10.0
+gTTS>=2.5.1
+playsound==1.2.2
+# For microphone access with SpeechRecognition:
+PyAudio>=0.2.14
+# Tkinter ships with CPython on most platforms (no pip package required)
